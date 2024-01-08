@@ -1,6 +1,6 @@
 # Seaborn
 
-![Seaborn Logo](link/to/seaborn-logo.png)
+
 
 This repository contains examples and demonstrations of data visualizations using the Seaborn library for Python.
 
